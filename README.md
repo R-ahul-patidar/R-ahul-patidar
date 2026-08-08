@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Rahul Patidar 👋
+# Hi there, I'm Rahul Patidar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### AI Engineer • Python Backend Engineer • GenAI Developer
 
-Building intelligent, scalable and production-ready AI systems with  
-**Python, FastAPI, LLMs, RAG and Agentic AI.**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+RAG+%7C+Agentic+AI;LangChain+%7C+LangGraph+%7C+MCP;Python+%7C+FastAPI+%7C+Django;AI+Agents+%7C+Voice+AI+%7C+LLM+Applications)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-patidar-6b029b185/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/R_ahul__patidar/)
