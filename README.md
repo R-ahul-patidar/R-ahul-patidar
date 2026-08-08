@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Rahul Patidar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Rahul Patidar  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### AI Engineer • Python Backend Engineer • GenAI Developer
+### AI Engineer | Python Backend Engineer | GenAI Developer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+RAG+%7C+Agentic+AI;LangChain+%7C+LangGraph+%7C+MCP;Python+%7C+FastAPI+%7C+Django;AI+Agents+%7C+Voice+AI+%7C+LLM+Applications)
+
+<!-- Building intelligent, scalable and production-ready AI systems with  
+**Python, FastAPI, Django, Generative AI, LLMs, RAG, Agentic AI, AI Agents, Voice AI, LangChain, LangGraph and MCP.**  -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-patidar-6b029b185/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/R_ahul__patidar/)
@@ -59,133 +62,6 @@ Building production-grade AI applications and scalable backend services.
 - Deployed Dockerized applications using **AWS EC2, Lambda and S3**.
 - Managed CI/CD workflows using **GitLab CI/CD**.
 
----
-
-## 🧠 AI Engineering Focus
-
-```text
-              ┌──────────────────────────┐
-              │      AI Applications     │
-              └────────────┬─────────────┘
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-           RAG          AI Agents       LLMs
-            │              │              │
-      ┌─────┴─────┐   ┌────┴─────┐   ┌───┴────────┐
-      │ Retrieval │   │ Workflow │   │ Multi-LLM  │
-      │ Embeddings│   │ Tool Use │   │ Integration│
-      │ Vector DB │   │ Agents   │   │ Routing    │
-      └─────┬─────┘   └────┬─────┘   └───┬────────┘
-            │              │              │
-            └──────────────┼──────────────┘
-                           │
-                  Python + FastAPI
-                           │
-                    AWS + Docker
-```
-
-### Areas I work with
-
-- Generative AI & LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic Workflows
-- LLM Orchestration
-- Semantic Search
-- Vector Search
-- Embeddings
-- Prompt Engineering
-- MCP Servers
-- Tool Calling
-- REST API Development
-- Async Backend Systems
-- Authentication & RBAC
-- Cloud Deployment
-
----
-
-## 🚀 Featured AI & Backend Projects
-
-### 🤖 AI Voice Agent Platform
-
-Production-oriented AI voice platform designed for intelligent phone conversations and business workflow automation.
-
-**Capabilities**
-
-- AI-powered voice conversations
-- Customer support automation
-- Appointment scheduling
-- Lead qualification
-- Knowledge-base integration
-- AI agent workflow transitions
-- Tool execution
-- Inbound & outbound calling
-- RAG-powered contextual responses
-
-**Tech Stack**
-
-`Python` `FastAPI` `LangChain` `RAG` `OpenAI` `Groq` `Gemini` `Anthropic` `LiveKit` `PostgreSQL` `MongoDB` `AWS` `Docker`
-
----
-
-### 🩺 AI Medical Scribe Platform
-
-AI-powered healthcare application designed to transform patient-provider conversations into structured medical documentation.
-
-**Highlights**
-
-- AI-powered clinical documentation
-- Speech/conversation processing
-- Structured SOAP note generation
-- Multi-speaker voice differentiation
-- Backend services using FastAPI
-- LLM-powered processing with OpenAI
-- REST API architecture
-
-**Tech Stack**
-
-`Python` `FastAPI` `OpenAI` `GPT-4o Mini` `PostgreSQL` `REST APIs`
-
----
-
-### 📚 VectorMind — RAG Document Q&A
-
-A RAG-based backend system that allows users to upload documents and interact with them through conversational queries.
-
-**Features**
-
-- PDF / DOCX / TXT document ingestion
-- Document chunking
-- Embedding generation
-- Vector storage
-- Semantic retrieval
-- Context-aware response generation
-- Multiple embedding model support
-
-**Tech Stack**
-
-`Python` `FastAPI` `LangChain` `FAISS` `OpenAI API` `HuggingFace` `SQLite`
-
----
-
-### 🍺 Brewery Review System
-
-A full-stack web application for discovering breweries and managing user reviews.
-
-**Features**
-
-- User authentication
-- Brewery search
-- Search by city, name and type
-- Brewery information pages
-- Dynamic review system
-- External API integration
-
---- 
-
-**Tech Stack**
-
-`Django` `Django REST Framework` `JavaScript` `HTML` `CSS` `SQLite` `REST APIs`
 
 ---
 ## 🛠️ Tech Stack
@@ -674,7 +550,7 @@ I actively practice Data Structures & Algorithms using **C++ and Python**.
 - 🏅 **6 badges**
 - 🔥 **365 Days Badge**
 
-[![LeetCode Profile](https://img.shields.io/badge/View%20My-LeetCode%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/R_ahul__patidar/)
+[![LeetCode Profile](https://img.shields.io/badge/View%20My%20LeetCode%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/R_ahul__patidar/)
 
 ---
 
